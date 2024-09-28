@@ -1,4 +1,19 @@
 body{
   margin: 0px;
   padding-bottom: 2000px;
+  background-color: rgb(40,40,40);
+  font-family: Arial;
+  color: white;
+}
+
+main{
+  padding-top: 60px;
+}
+
+.home-section-container,
+.projects-container,
+.about-me-container,
+.contact-container
+{
+  margin-bottom: 20px;
 }
