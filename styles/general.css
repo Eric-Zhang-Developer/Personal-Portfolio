@@ -1,3 +1,15 @@
+:root{
+  --color-primary:white;
+  --color-secondardy:black;
+  --color-accent: rgb(251,116,45);
+  
+}
+
+
+
+
+
+
 body{
   margin: 0px;
   padding-bottom: 2000px;
@@ -8,6 +20,10 @@ body{
 
 main{
   padding-top: 60px;
+}
+
+section{
+  scroll-margin-top: 60px;
 }
 
 .home-section-container,
